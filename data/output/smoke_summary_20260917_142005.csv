@@ -1,0 +1,5 @@
+backend,model,n_ok,akurasi,recall_TRUE,recall_FALSE,TP,TN,FP,FN,url_valid,search_per_baris,latency_avg,tok_per_baris
+serper,gemma-4-26B-A4B-it,10.0,0.8,1.0,0.333,7.0,1.0,2.0,0.0,1.0,2.2,7.2,4432.0
+serper,watsonx-qwen3-30b-a3b-instruct-2507,10.0,0.6,0.571,0.667,4.0,2.0,1.0,3.0,0.6,3.0,11.7,7320.0
+tavily,gemma-4-26B-A4B-it,10.0,0.7,1.0,0.0,7.0,0.0,3.0,0.0,1.0,2.4,10.0,5417.0
+tavily,watsonx-qwen3-30b-a3b-instruct-2507,10.0,0.5,0.429,0.667,3.0,2.0,1.0,4.0,0.5,3.0,27.4,7980.0

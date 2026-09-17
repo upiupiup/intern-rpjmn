@@ -1,0 +1,9 @@
+model,n_rows,n_call_error,n_parse_error,realisasi_accuracy
+qwen3.8-27b,10,0,0,0.2
+Neutra-Qwen/Qwen3.6-35B-A3B,10,0,0,0.1
+telkom-ai-instruct,10,0,0,0.1
+watsonx-qwen3-30b-a3b-instruct-2507,10,0,0,0.1
+gemma-4-26B-A4B-it,10,0,0,0.0
+llm_mini,10,0,0,0.0
+s0/gpt/luna,10,10,0,0.0
+s0/gpt/terra,10,10,0,0.0
