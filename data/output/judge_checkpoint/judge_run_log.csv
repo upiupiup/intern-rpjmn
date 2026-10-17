@@ -1,0 +1,4 @@
+tanggal,jam,baris_ditulis,token,total_baris_selesai,alasan_stop
+2026-10-18,03:01,10,14210,10,semua baris selesai
+2026-10-18,03:07,2,2782,12,dihentikan manual
+2026-10-18,03:43,109,153436,121,budget token hari ini habis
