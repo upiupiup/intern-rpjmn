@@ -1,0 +1,195 @@
+﻿model_nama,row_no,judge_groundedness,judge_rel_ringkasan,judge_rel_sumber,alasan_groundedness,alasan_relevansi
+Gemma 4 26B A4B,3,2,2,2,klaim didukung oleh sumber,langsung bahas indikator yang diminta
+Qwen3 30B A3B,3,1,2,2,Tidak ada bukti terbit awal 2026,langsung bahas indikator yang diminta
+Gemma 4 26B A4B,6,2,1,1,Semua klaim ditemukan dalam sumber,"topik terkait, tidak spesifik indikator"
+Qwen3 30B A3B,6,2,2,2,klaim didukung sumber,langsung bahas kontrol HPHK nasional
+Gemma 4 26B A4B,9,2,2,2,"Data yield 6,36% Q3 2025 ada di sumber",langsung membahas yield SBN target
+Qwen3 30B A3B,9,2,2,2,klaim didukung sumber,langsung membahas yield SBN target
+Gemma 4 26B A4B,12,2,0,0,Semua klaim didukung sumber,Tidak menyebutkan persentase produksi organik
+Qwen3 30B A3B,12,2,0,0,klaim didukung oleh sumber,Tidak menyebut produksi organik
+Gemma 4 26B A4B,15,0,1,1,"Tidak ada bukti target 6,59% 2025","topik sama, target berbeda"
+Qwen3 30B A3B,15,0,2,1,"Tidak ada bukti 8,35% 2025","Ringkasan tepat, sumber hanya terkait investasi"
+Gemma 4 26B A4B,18,2,0,0,Semua klaim didukung sumber,Tidak menyebut nilai investasi
+Qwen3 30B A3B,18,2,2,,Tidak ada bukti kegiatan dalam sumber,"Ringkasan bahas indikator, sumber kosong"
+Gemma 4 26B A4B,21,2,2,1,Tidak ada bukti investasi KI Buli 2025,"Ringkasan bahas indikator, sumber hanya sebut nama"
+Qwen3 30B A3B,21,2,2,,Tidak ada bukti kegiatan dalam sumber,"Ringkasan bahas indikator, sumber kosong"
+Gemma 4 26B A4B,24,2,2,2,Semua klaim didukung sumber,langsung bahas indikator target 2025
+Qwen3 30B A3B,24,1,2,2,"Target 10,5% didukung, sumber lain tidak lengkap",langsung bahas indikator target emisi
+Gemma 4 26B A4B,27,1,2,2,Sebagian klaim tidak ada sumber jelas,langsung bahas jaringan transmisi target 2025
+Qwen3 30B A3B,27,2,2,,Tidak ada bukti proyek di sumber,"Ringkasan bahas indikator, sumber kosong"
+Gemma 4 26B A4B,30,1,2,2,"Trayek data didukung, muatan tidak ada",langsung membahas muatan barang nonkomersil
+Qwen3 30B A3B,30,0,2,,Tidak ada bukti pendukung dalam sumber,"Ringkasan relevan, sumber tidak ada"
+Gemma 4 26B A4B,33,2,2,,Tidak ada bukti yang ditemukan dalam sumber,"Ringkasan bahas indikator, sumber tidak ada"
+Qwen3 30B A3B,33,2,2,,Tidak ada bukti 2025 dalam sumber,"Ringkasan relevan, sumber tidak ada"
+Gemma 4 26B A4B,36,1,2,2,Beberapa klaim tidak ada dalam sumber,langsung bahas intervensi KEK ibu hamil
+Qwen3 30B A3B,36,2,2,2,Semua klaim didukung oleh sumber,langsung bahas indikator KEK ibu hamil
+Gemma 4 26B A4B,39,2,2,2,Semua klaim ditemukan dalam sumber,bahas perawatan jangka panjang lansia
+Qwen3 30B A3B,39,1,1,1,Tahun 2025 tidak ada dalam sumber,"membahas program, bukan data indikator"
+Gemma 4 26B A4B,42,2,2,2,Semua klaim didukung oleh sumber,langsung membahas indikator yang diminta
+Qwen3 30B A3B,42,2,2,2,Data 48% ditemukan dalam sumber,sama indikator lulusan vokasi kerja
+Gemma 4 26B A4B,45,1,2,2,II tidak terbukti di sumber,langsung membahas capaian indeks armada
+Qwen3 30B A3B,45,2,2,2,klaim didukung oleh sumber yang disebut,langsung membahas indeks operasi armada
+Gemma 4 26B A4B,48,2,2,0,Semua klaim didukung sumber,"Ringkasan relevan, sumber tidak terkait indikator"
+Qwen3 30B A3B,48,2,2,2,"Sumber hanya data, tidak ada bukti program",langsung membahas indikator rata-rata lama sekolah
+Gemma 4 26B A4B,51,2,0,0,Semua klaim didukung sumber,Tidak menyebut GNI per kapita
+Qwen3 30B A3B,51,2,2,2,Ringkasan sesuai dengan sumber yang hanya rencana,membahas indikator GNI per kapita
+Gemma 4 26B A4B,54,2,2,2,Semua klaim didukung sumber,langsung membahas jumlah perjalanan kereta api
+Qwen3 30B A3B,54,1,2,2,Beberapa klaim tidak ada dalam sumber,langsung membahas jumlah perjalanan kereta api
+Gemma 4 26B A4B,57,1,2,2,"Target I & II ada, monitoring tidak disebut",langsung membahas nilai investasi KEK Galang Batang
+Qwen3 30B A3B,57,2,2,2,klaim didukung sumber,langsung bahas nilai investasi target indikator
+Gemma 4 26B A4B,60,1,2,2,Target 61% tidak ditemukan dalam sumber,langsung membahas indikator target 61%
+Qwen3 30B A3B,60,2,1,1,klaim didukung sumber,"Topik serupa, bukan indikator tepat"
+Gemma 4 26B A4B,63,2,1,1,klaim didukung sumber,"Sebut kasus, bukan persentase penyelesaian"
+Qwen3 30B A3B,63,2,2,2,Semua klaim didukung sumber,langsung bahas indikator PP 07.16
+Gemma 4 26B A4B,66,2,1,1,klaim didukung sumber,"bahas kekerasan, bukan prevalensi spesifik"
+Qwen3 30B A3B,66,2,2,,Tidak ada bukti yang ditemukan dalam sumber,"Ringkasan bahas indikator, sumber kosong"
+Gemma 4 26B A4B,69,2,2,2,Semua klaim didukung sumber,langsung bahas rasio kewirausahaan perempuan
+Qwen3 30B A3B,69,2,2,1,Tidak ada bukti ditemukan dalam sumber,Ringkasan bahas indikator; sumber tidak jelas
+Gemma 4 26B A4B,72,2,2,2,Semua klaim didukung oleh sumber,bahas nilai akuntabilitas provinsi sesuai indikator
+Qwen3 30B A3B,72,1,2,2,Kategori B tidak disebutkan dalam sumber,langsung bahas indikator provinsi akuntabilitas
+Gemma 4 26B A4B,75,2,0,0,Semua klaim didukung sumber,Tidak menyebutkan tingkat pemanfaatan
+Qwen3 30B A3B,75,0,1,1,Tidak ada bukti evaluasi atau program spesifik,"Terkait indikator, tapi tidak spesifik"
+Gemma 4 26B A4B,78,1,2,2,Peresmian 2025 tidak ada bukti,bahas kapasitas pusat data target 2025
+Qwen3 30B A3B,78,0,2,0,Tidak ada bukti dalam sumber,"Ringkasan relevan, sumber tidak"
+Gemma 4 26B A4B,81,2,2,2,klaim didukung sumber,langsung membahas indikator yang diminta
+Qwen3 30B A3B,81,2,2,2,Semua klaim didukung sumber,bahas rasio harga broadband per kapita
+Gemma 4 26B A4B,84,2,2,2,Semua klaim didukung sumber,"langsung bahas BABS, target sanitasi"
+Qwen3 30B A3B,84,0,2,,Tidak ada bukti pendukung dalam sumber,langsung membahas indikator PP 02.12
+Gemma 4 26B A4B,87,1,2,2,Beberapa klaim tidak ada dalam sumber,langsung bahas kontrol diabetes target 2025
+Qwen3 30B A3B,87,1,2,0,"Beberapa elemen didukung, namun detail Feb 2025 dan Kemendagri tidak ada","Ringkasan relevan, sumber tidak terkait diabetes"
+Gemma 4 26B A4B,90,2,2,2,klaim didukung sumber yang ada,langsung membahas indikator medali Youth Olympic
+Qwen3 30B A3B,90,2,0,0,Semua klaim didukung sumber,Tidak bahas Youth Olympic Games
+Gemma 4 26B A4B,93,2,1,1,Semua klaim didukung sumber,"Membahas program, bukan data indikator"
+Qwen3 30B A3B,93,2,2,1,Tidak ada bukti dalam sumber,"Ringkasan bahas indikator, sumber hanya data umum"
+Gemma 4 26B A4B,96,2,2,2,Semua klaim didukung sumber,langsung membahas IKP target 2025
+Qwen3 30B A3B,96,1,2,2,"Mandat didukung, tanggal terbit tidak ada",langsung membahas IKP dan survei terkait
+Gemma 4 26B A4B,99,0,1,1,Tidak ada bukti Rasio TPAK atau proses pemantauan,"membahas rasio gender, bukan TPAK spesifik"
+Qwen3 30B A3B,99,2,2,2,"Sumber hanya indikator, tidak ada bukti kegiatan",langsung membahas indikator yang diminta
+Gemma 4 26B A4B,102,2,2,2,Semua klaim didukung sumber,langsung bahas indikator yang diminta
+Qwen3 30B A3B,102,2,2,2,"klaim didukung sumber, tidak ada bukti kegiatan",langsung membahas indikator yang diminta
+Gemma 4 26B A4B,105,2,0,0,klaim didukung sumber,Tidak membahas persentase olahraga
+Qwen3 30B A3B,105,0,2,,Tidak ada bukti sumber yang mendukung klaim,"Ringkasan relevan, sumber kosong"
+Gemma 4 26B A4B,108,1,2,2,"Indikator didukung, kegiatan tidak ditemukan",langsung membahas indikator dan data terkait
+Qwen3 30B A3B,108,0,2,2,Tidak ada bukti dalam sumber,langsung membahas indikator yang diminta
+Gemma 4 26B A4B,111,2,2,,Sumber tidak menyebutkan dokumen tersebut,"Ringkasan relevan, sumber kosong"
+Qwen3 30B A3B,111,2,2,,Tidak ada bukti ditemukan dalam sumber,"Ringkasan bahas indikator, sumber tidak ada"
+Gemma 4 26B A4B,114,2,0,0,klaim didukung sumber,Tidak menyebut persentase wilayah terkendali
+Qwen3 30B A3B,114,2,1,1,Sumber dukung kegiatan pemantauan OPTK 2025,"bahas kegiatan, bukan persentase kontrol"
+Gemma 4 26B A4B,117,2,2,2,Semua klaim didukung sumber,langsung bahas RPN 2025 sesuai indikator
+Qwen3 30B A3B,117,1,1,1,"Dukungan sebagian, tidak ada bukti semester I","membahas topik terkait, bukan indikator tepat"
+Gemma 4 26B A4B,120,1,2,2,Data restitusi tidak ada di sumber,langsung membahas indeks perlindungan saksi
+Qwen3 30B A3B,120,1,2,2,Beberapa klaim tidak ada dalam sumber,langsung membahas indeks perlindungan saksi/k korban
+Gemma 4 26B A4B,123,2,0,0,Semua klaim didukung oleh sumber,Tidak menyebut penerimaan uang
+Qwen3 30B A3B,123,1,2,2,"Kolaborasi didukung, press release tidak ada","bahas komersialisasi iptek, pendapatan"
+Gemma 4 26B A4B,126,1,2,2,Indo Defence 2025 tidak ada dalam sumber,bahas kerja sama iptek dengan industri
+Qwen3 30B A3B,126,2,2,,Tidak ada bukti konkret dalam sumber,"Ringkasan relevan, sumber tidak ada"
+Gemma 4 26B A4B,129,2,2,2,Semua klaim utama ditemukan dalam sumber,langsung bahas pengurangan food loss
+Qwen3 30B A3B,129,1,2,2,Press release 28 April 2025 tidak ada,langsung bahas penyelamatan pangan target
+Gemma 4 26B A4B,132,1,2,2,"Beberapa klaim didukung, sebagian tidak ada",bahas pembangunan hunian berkelanjutan
+Qwen3 30B A3B,132,2,2,2,Semua klaim didukung oleh sumber,langsung bahas pembangunan hunian berkelanjutan
+Gemma 4 26B A4B,135,2,2,2,Semua klaim ditemukan dalam sumber,langsung bahas UMKM IKN target 2025
+Qwen3 30B A3B,135,2,1,1,Semua klaim didukung sumber,"membahas UMKM IKN, bukan proporsi spesifik"
+Gemma 4 26B A4B,138,2,2,2,klaim didukung oleh sumber kutipan,langsung bahas indikator KP 02.10.13
+Qwen3 30B A3B,138,2,2,2,Ringkasan sesuai dengan sumber yang hanya rencana,langsung membahas indikator yang sama
+Gemma 4 26B A4B,141,1,2,2,"Beberapa klaim terdukung, sebagian tidak jelas",langsung bahas sistem data terpadu target
+Qwen3 30B A3B,141,1,2,2,E-Management tidak ada dalam sumber,langsung bahas sistem data gizi nasional
+Gemma 4 26B A4B,144,2,1,1,Semua klaim didukung sumber,"Topik terkait keamanan laut, bukan indeks spesifik"
+Qwen3 30B A3B,144,2,2,,Ringkasan sesuai dengan sumber yang ada,"Ringkasan relevan, sumber tidak ada"
+Gemma 4 26B A4B,147,2,2,2,klaim didukung oleh sumber,langsung menyebut target indikator
+Qwen3 30B A3B,147,0,2,,Sumber menyebutkan laporan 2025 yang ada,"Ringkasan relevan, sumber tidak ada"
+Gemma 4 26B A4B,150,2,2,2,Semua klaim didukung sumber,langsung membahas indikator PP 02.15
+Qwen3 30B A3B,150,2,2,2,klaim didukung oleh sumber,langsung membahas indikator PP 02.15
+Gemma 4 26B A4B,153,1,2,2,"Indikator ada, monitoring tidak disebut",langsung membahas indikator yang diminta
+Qwen3 30B A3B,153,2,2,2,"Data persentase 92,95% terverifikasi","sama indikator, data relevan"
+Gemma 4 26B A4B,156,1,2,2,Program Harmony in Action tidak ada dalam sumber,langsung bahas partisipasi pemuda sosial
+Qwen3 30B A3B,156,0,2,2,Tidak ada bukti tanggal peluncuran 22 April 2025,langsung bahas kegiatan sosial pemuda
+Gemma 4 26B A4B,159,1,2,2,Kegiatan teknis tidak ada dalam sumber,langsung membahas skor PPH 2025
+Qwen3 30B A3B,159,1,2,2,Target 94 tidak disebutkan dalam sumber,langsung membahas skor PPH konsumsi 2025
+Gemma 4 26B A4B,162,2,2,2,klaim didukung sumber,langsung bahas indikator hub tematik BRIN
+Qwen3 30B A3B,162,0,2,2,Tidak ada bukti tanggal 4 Juli 2025,bahas hub tematik BRIN sesuai indikator
+Gemma 4 26B A4B,165,2,2,2,Semua klaim didukung sumber,langsung bahas peningkatan lulusan STEM
+Qwen3 30B A3B,165,1,2,2,"Buku ada, statistik dan kurikulum tidak disebut",langsung bahas data lulusan STEM
+Gemma 4 26B A4B,168,2,1,1,klaim didukung sumber,"Topik terkait, tidak sebutkan angka kumulatif"
+Qwen3 30B A3B,168,2,2,,Tidak ada bukti 2025 dalam sumber,"Ringkasan bahas indikator, sumber tidak ada"
+Gemma 4 26B A4B,171,1,2,2,"Beberapa referensi, tapi tidak ada bukti tahun 2025",langsung bahas indikator mata air
+Qwen3 30B A3B,171,1,2,2,"Beberapa detail cocok, namun tidak lengkap",langsung bahas pelestarian mata air
+Gemma 4 26B A4B,174,2,2,2,Semua klaim didukung sumber,langsung membahas indikator dan nilai target
+Qwen3 30B A3B,174,2,2,2,klaim didukung oleh sumber,langsung membahas indikator yang diminta
+Gemma 4 26B A4B,177,2,2,2,klaim didukung oleh sumber,bahas sertifikasi keamanan dan mutu
+Qwen3 30B A3B,177,2,2,1,Tidak ada bukti dalam sumber,"Ringkasan tepat, sumber agak umum"
+Gemma 4 26B A4B,180,2,2,2,klaim didukung oleh sumber,langsung membahas indikator yang diminta
+Qwen3 30B A3B,180,1,2,2,"Beberapa klaim didukung, sebagian tidak ditemukan",langsung membahas indikator yang diminta
+Gemma 4 26B A4B,183,2,2,2,Semua klaim didukung sumber,"bahas sanitasi pedesaan, relevan indikator"
+Qwen3 30B A3B,183,0,2,1,Tidak ada bukti dalam sumber,"Ringkasan tepat, sumber kurang relevan"
+Gemma 4 26B A4B,186,2,0,0,klaim didukung sumber,Tidak menyebut unit taman kehati
+Qwen3 30B A3B,186,2,1,1,klaim didukung sumber,"membahas fasilitasi, tidak sebut unit"
+Gemma 4 26B A4B,189,1,1,1,"Beberapa klaim didukung, tanggal Juni 2025 tidak ada","membahas IRLH, bukan angka spesifik"
+Qwen3 30B A3B,189,2,2,,"Tidak ada bukti kegiatan, hanya publikasi","Ringkasan bahas indikator, sumber kosong"
+Gemma 4 26B A4B,192,2,2,2,klaim didukung oleh sumber,langsung bahas pengawasan izin SDA
+Qwen3 30B A3B,192,1,2,2,"Dukungan parsial, tahun 2025 tidak jelas",langsung bahas pengawasan izin SDA
+Gemma 4 26B A4B,195,2,2,2,Semua klaim ditemukan dalam sumber,langsung bahas target reduksi emisi kelautan
+Qwen3 30B A3B,195,2,2,,Tidak ada bukti kegiatan dalam sumber,"Ringkasan relevan, sumber tidak ada"
+Gemma 4 26B A4B,198,2,2,2,Semua klaim didukung sumber,langsung bahas rasio kewirausahaan target
+Qwen3 30B A3B,198,2,2,,Ringkasan cocok dengan sumber yang ada,"Ringkasan bahas indikator, sumber tidak ada"
+Gemma 4 26B A4B,201,1,2,2,"Sebagian klaim didukung, sebagian tidak ada",langsung bahas kapasitas prasarana air baku
+Qwen3 30B A3B,201,2,1,1,klaim didukung sumber,"membahas kapasitas fasilitas, bukan total indikator"
+Gemma 4 26B A4B,204,2,2,2,Semua klaim ditemukan dalam sumber,bahas infrastruktur pengendali daya rusak air
+Qwen3 30B A3B,204,0,2,,Tidak ada bukti dalam sumber,"Ringkasan relevan, sumber tidak ada"
+Gemma 4 26B A4B,207,2,1,1,Semua klaim didukung sumber,"Terkait pembiayaan, bukan proyek spesifik"
+Qwen3 30B A3B,207,0,2,2,Tidak ada bukti tanggal dan detail proyek,langsung bahas proyek pembiayaan kreatif air
+Gemma 4 26B A4B,210,2,2,2,Semua klaim didukung sumber,langsung bahas IKB target 2025
+Qwen3 30B A3B,210,2,2,2,klaim didukung oleh sumber yang ada,langsung bahas indikator IKB target
+Gemma 4 26B A4B,213,1,2,2,Latihan tidak ada dalam sumber,langsung membahas nilai ekspor Sumatera 2025
+Qwen3 30B A3B,213,2,2,2,klaim sesuai sumber,langsung bahas nilai ekspor Sumatera
+Gemma 4 26B A4B,216,2,2,2,Semua klaim didukung oleh sumber,langsung bahas indeks efektivitas AML
+Qwen3 30B A3B,216,2,2,2,klaim didukung oleh sumber,langsung bahas indeks efektivitas APUPPT 2025
+Gemma 4 26B A4B,219,0,2,2,Tidak ada bukti pendapatan Wakatobi,langsung bahas pendapatan wisatawan nusantara Wakatobi
+Qwen3 30B A3B,219,0,2,2,Tidak ada bukti Wakatobi di sumber,langsung membahas target indikator
+Gemma 4 26B A4B,222,2,2,2,Semua klaim didukung sumber,langsung bahas indeks kelembagaan hukum
+Qwen3 30B A3B,222,0,2,,Sumber menyebutkan bukti 2025,"Ringkasan relevan, sumber tidak ada"
+Gemma 4 26B A4B,225,2,2,2,klaim didukung sumber,langsung bahas subsektor aplikasi dan gim
+Qwen3 30B A3B,225,1,2,2,"Dukungan sebagian, tahun tidak jelas",langsung menyebut pertumbuhan subsektor aplikasi dan gim
+Gemma 4 26B A4B,228,2,2,2,klaim didukung sumber,langsung membahas desa mandiri 2025
+Qwen3 30B A3B,228,0,2,,Tidak ada bukti pendukung dalam sumber,"Ringkasan bahas indikator, sumber kosong"
+Gemma 4 26B A4B,231,2,1,1,Semua klaim didukung sumber,"Topik terkait, tidak beri data indikator"
+Qwen3 30B A3B,231,0,2,2,Tidak ada bukti persentase 76% dalam sumber,langsung membahas target indikator desa digital
+Gemma 4 26B A4B,234,0,0,0,Tidak ada bukti dalam sumber,Tidak menyebut indeks materi hukum
+Qwen3 30B A3B,234,0,2,2,Tidak ada bukti Indeks Materi Hukum,langsung bahas indeks materi hukum target
+Gemma 4 26B A4B,237,2,2,2,Semua klaim didukung sumber,membahas akses pendidikan tinggi sesuai indikator
+Qwen3 30B A3B,237,2,2,2,Semua klaim didukung sumber,langsung membahas APK PT 2025
+Gemma 4 26B A4B,240,2,2,,Tidak ada bukti di sumber yang mendukung klaim,"Ringkasan bahas indikator, sumber kosong"
+Qwen3 30B A3B,240,2,2,,"Tidak ada bukti dalam sumber, klaim konsisten","Ringkasan bahas indikator, sumber kosong"
+Gemma 4 26B A4B,243,2,1,1,Semua klaim didukung sumber,"bahas program, bukan angka peserta"
+Qwen3 30B A3B,243,2,1,1,Semua klaim didukung sumber,"Sesuai topik, tidak beri angka"
+Gemma 4 26B A4B,246,2,2,2,Semua klaim didukung oleh sumber,langsung bahas indikator Persentase Pangan Aman
+Qwen3 30B A3B,246,2,2,2,Semua klaim ditemukan dalam sumber,langsung bahas penilaian KKPA 2025
+Gemma 4 26B A4B,249,2,2,2,Semua klaim didukung sumber,langsung menyebut indikator dan target yang sama
+Qwen3 30B A3B,249,2,2,2,Tidak ada bukti kegiatan terkait dalam sumber,langsung membahas indikator yang sama
+Gemma 4 26B A4B,252,2,2,2,klaim didukung oleh sumber yang tercantum,langsung bahas edukasi pra nikah
+Qwen3 30B A3B,252,2,2,2,klaim didukung oleh sumber,langsung bahas edukasi pra nikah
+Gemma 4 26B A4B,255,2,0,0,Semua klaim didukung sumber,Tidak menyebut medali
+Qwen3 30B A3B,255,0,2,,Sumber menyebutkan pencapaian medali emas,langsung membahas indikator PN04
+Gemma 4 26B A4B,258,1,1,0,"Hanya anggaran 2025 didukung, lainnya tidak","Ringkasan terkait, sumber tidak"
+Qwen3 30B A3B,258,2,2,2,Tidak ada bukti 2025 dalam sumber,langsung membahas indikator ekspor jasa terkait
+Gemma 4 26B A4B,261,2,2,2,Semua klaim ditemukan dalam sumber,membahas kerja sama internasional ketenagakerjaan
+Qwen3 30B A3B,261,1,2,2,"Dukungan pelatihan ada, kerja sama Qatar dan MoU tidak",membahas kerja sama internasional tenaga terampil
+Gemma 4 26B A4B,264,1,2,2,Beberapa klaim tidak ada bukti spesifik,langsung bahas Perda pengelolaan limbah domestik
+Qwen3 30B A3B,264,1,2,2,"Beberapa klaim didukung, sebagian tidak ada",langsung bahas Perda tata kelola limbah
+Gemma 4 26B A4B,267,2,2,2,Tidak ada bukti di sumber,langsung bahas indikator dan statusnya
+Qwen3 30B A3B,267,2,2,,"Tidak ada bukti ditemukan, sesuai sumber","Ringkasan bahas indikator, sumber kosong"
+Gemma 4 26B A4B,270,2,2,2,klaim didukung oleh sumber,langsung bahas indikator yang diminta
+Qwen3 30B A3B,270,2,2,2,Sumber menyebut nilai realisasi kelapa 2025 BKPM,langsung bahas nilai realisasi PMA/PMDN kelapa
+Gemma 4 26B A4B,273,0,0,0,Tidak ada bukti dalam sumber,Tidak menyebutkan positivity rate
+Qwen3 30B A3B,273,1,2,2,"Slide didukung, validasi tidak ditemukan",langsung bahas indikator yang diminta
+Gemma 4 26B A4B,276,1,2,2,Beberapa klaim tidak ada bukti,langsung bahas cakupan imunisasi HPV
+Qwen3 30B A3B,276,2,2,2,klaim didukung oleh sumber,langsung bahas cakupan imunisasi HPV
+Gemma 4 26B A4B,279,2,2,2,klaim didukung oleh sumber yang tercantum,langsung membahas indikator stok infrastruktur
+Qwen3 30B A3B,279,1,2,2,Tidak dapat verifikasi klaim tidak ada bukti,langsung bahas indikator stok infrastruktur
+Gemma 4 26B A4B,282,2,2,2,Semua klaim ditemukan dalam sumber,langsung bahas dana sosial keagamaan
+Qwen3 30B A3B,282,0,1,1,Tidak ada bukti 310 Miliar atau 2 juta,"bahas bantuan keagamaan, bukan khusus miskin"
+Gemma 4 26B A4B,285,1,2,2,Beberapa klaim tidak ada dalam sumber,langsung bahas program studi STEM
+Qwen3 30B A3B,285,2,1,1,klaim didukung sumber,"Terkait STEM, bukan proporsi program studi"
+Gemma 4 26B A4B,288,2,2,2,Semua klaim didukung sumber,langsung bahas hunian layak dan terjangkau
+Qwen3 30B A3B,288,1,2,2,"Kunjungan didukung, tanggal publikasi laporan tidak cocok",langsung bahas target hunian layak
+Gemma 4 26B A4B,291,1,2,,"Peninjauan didukung, target 2025 tidak ada","Ringkasan relevan, sumber tidak ada"
+Qwen3 30B A3B,291,2,2,2,Tidak ada bukti dalam sumber,langsung bahas indikator kapasitas SPAM terbangun
